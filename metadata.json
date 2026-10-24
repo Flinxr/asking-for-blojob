@@ -1,0 +1,6 @@
+{
+  "name": "سولماز & ایلیا | قرار اختصاصی ❤️",
+  "description": "یک صفحه شوخی بانمک برای سولماز و ایلیا با تم صورتی و تقویم هماهنگی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
